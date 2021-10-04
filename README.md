@@ -1,4 +1,4 @@
-# driverapp
+# RideShare Driver Flutter
 
 A driver of campus ride
 
