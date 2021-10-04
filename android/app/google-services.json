@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283253019640",
+    "project_id": "campus-ride-confirm",
+    "storage_bucket": "campus-ride-confirm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283253019640:android:1a0cdc187accb85d123c0d",
+        "android_client_info": {
+          "package_name": "com.campusride.driverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283253019640-jmh615gb2vs0cghde3mbe8ppciou6c9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUgk8Jt3yg7VDrJ3LN76Qg_LJIJKRaSDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283253019640-jmh615gb2vs0cghde3mbe8ppciou6c9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
